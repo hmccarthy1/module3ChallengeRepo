@@ -14,4 +14,4 @@ Goals for this Project:
 
 ## link to deployed website
 
-(https://hmccarthy1.github.io/module3ChallengeRepo/)
+https://hmccarthy1.github.io/module3ChallengeRepo/
